@@ -34,10 +34,6 @@ class AddBBCode
             '<p class="line-1 anim-typewriter">{TEXT}</P>'
         );
 
-	$event->configurator->BBCodes->addCustom(
-            '[KEN]{TEXT}[/KEN]',
-            '<div class="image-wrap">{TEXT}</div>'
-        );
 	 $event->configurator->BBCodes->addCustom(
             '[CRANKY]{TEXT}[/CRANKY]',
             '<p class="cranky">{TEXT}</p>'
