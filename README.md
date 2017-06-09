@@ -5,8 +5,7 @@ Add special BBCode text effects / objects to Flarum
 
 Add special bbcode text effects and objects to Flarum.
 
-[url=https://github.com/0E800/flarum-ext-bbcode-special]Github[/url]
-[url=https://packagist.org/packages/oe800/flarum-ext-bbcode-special]Packagist[/url]
+[Packagist](https://packagist.org/packages/oe800/flarum-ext-bbcode-special)
 
 **Install:**
 
