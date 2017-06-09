@@ -1,18 +1,18 @@
 # flarum-ext-bbcode-special
 Add special BBCode text effects / objects to Flarum
 
-[center][img]https://agesofsail.files.wordpress.com/2016/11/special-2400px.png?w=300&h=233[/img][/center]
+![img](https://agesofsail.files.wordpress.com/2016/11/special-2400px.png?w=300&h=233)
 
 Add special bbcode text effects and objects to Flarum.
 
 [url=https://github.com/0E800/flarum-ext-bbcode-special]Github[/url]
 [url=https://packagist.org/packages/oe800/flarum-ext-bbcode-special]Packagist[/url]
 
-[b]Install:[/b]
+**Install:**
 
 `composer require oe800/flarum-ext-bbcode-special`
 
-[b]Usage:[/b]
+**Usage:**
 
 `[NOTE]{TEXT}[/NOTE]`
 
@@ -32,7 +32,7 @@ Add special bbcode text effects and objects to Flarum.
 
 `[BPOSTER]{COLOR},{COLOR2},{COLOR3},{COLOR4},{TEXT},{TEXT2},{TEXT3},{TEXT4},{TEXT5}[/BPOSTER]`
 
-[b]Examples:[/b]
+**Examples:**
 
 ![Imgur](http://i.imgur.com/D6WJn9N.png)
 ![Imgur](http://i.imgur.com/bZSnijD.gif)
